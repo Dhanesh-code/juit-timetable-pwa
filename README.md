@@ -54,7 +54,7 @@ Built for speed, accessibility, and maintainability.
 
 ## 📞 Contact & Support
 
-- **Issues:** [Open a GitHub Issue](https://github.com/Dhanesh-code/TimeTable/issues)
+- **Issues:** [Open a GitHub Issue](https://github.com/Dhanesh-code/juit-timetable-pwa/issues)
 - **Maintainer:** Dhanesh Singh
 
 > **Made with ❤️ for JUIT.** Not officially affiliated with Jaypee University of Information Technology.
