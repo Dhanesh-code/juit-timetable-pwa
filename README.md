@@ -1,12 +1,12 @@
 # 📚 JUIT Timetable PWA
 
-[![Live App](https://img.shields.io/badge/Live_App-Visit_Now-success?style=for-the-badge&logo=vercel)](https://juit-timetable.vercel.app)
+[![Live App](https://img.shields.io/badge/Live_App-Visit_Now-success?style=for-the-badge&logo=vercel)](https://juit-latest-timetable.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![PWA Ready](https://img.shields.io/badge/PWA-Installable-purple?style=for-the-badge)](https://juit-timetable.vercel.app)
+[![PWA Ready](https://img.shields.io/badge/PWA-Installable-purple?style=for-the-badge)](https://juit-latest-timetable.vercel.app)
 
 **The ultimate academic companion for JUIT students.** A modern, ultra-responsive Progressive Web App (PWA) that manages schedules for all **22 Batches (25BT01 - 25BT22)**. Built with vanilla JavaScript for raw performance, zero dependencies.
 
-🚀 **[Launch Live App](https://juit-timetable.vercel.app)** · **[Report Bug](https://github.com/Dhanesh-code/juit-timetable-pwa/issues)**
+🚀 **[Launch Live App](https://juit-latest-timetable.vercel.app)** · **[Report Bug](https://github.com/Dhanesh-code/juit-timetable-pwa/issues)**
 
 ---
 
